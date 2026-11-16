@@ -31,6 +31,6 @@ More: [judge-bias-lab](https://github.com/Beki-hck/judge-bias-lab) (is a small L
 
 ### 🛠️ Tools I use
 
-**AI:** LLM evaluation (LLM-as-judge, unit tests, chrF), RAG, RLHF data, Ollama, Claude API
-**Web:** JavaScript, React/TypeScript, FastAPI, PHP, HTML/CSS, Supabase/PostgreSQL, MongoDB, offline PWAs
-**Other:** Python, SQL, Docker, Git, GitHub Actions, AI-assisted development (Claude Code)
+- **AI:** LLM evaluation (LLM-as-judge, unit tests, chrF), RAG, RLHF data, Ollama, Claude API
+- **Web:** JavaScript, React/TypeScript, FastAPI, PHP, HTML/CSS, Supabase/PostgreSQL, MongoDB, offline PWAs
+- **Other:** Python, SQL, Docker, Git, GitHub Actions, AI-assisted development (Claude Code)
