@@ -2,9 +2,9 @@
 
 I build tools that test AI models and the data they learn from, and I build full-stack web apps that real businesses use.
 
-I'm a 2026 Computer Science graduate from St. Mary's University in Addis Ababa, and I also hold a BSc in Biology from Addis Ababa University. I'm looking for roles in **AI evaluation, LLM testing, and full-stack web development**.
+I'm a 2026 Computer Science graduate from St. Mary's University in Addis Ababa, and I also hold a BSc in Biology from Addis Ababa University.
 
-🌐 **Portfolio:** [beki-hck.github.io](https://beki-hck.github.io) · 💼 **LinkedIn:** [bereket-abebe](https://www.linkedin.com/in/bereket-abebe-a76248169)
+🌐 **Portfolio:** [beki-hck.github.io](https://beki-hck.github.io) · 
 
 ---
 
